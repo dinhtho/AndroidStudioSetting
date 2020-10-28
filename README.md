@@ -1,4 +1,5 @@
-```<azibai.com.core_app.ul.FontEditText
+```
+<azibai.com.core_app.ul.FontEditText
                     android:id="@+id/et$id$"
                     style="@style/textMediumHome"
                     android:layout_width="match_parent"
