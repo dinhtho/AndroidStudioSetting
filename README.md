@@ -1,4 +1,4 @@
-<azibai.com.core_app.ul.FontEditText
+```<azibai.com.core_app.ul.FontEditText
                     android:id="@+id/et$id$"
                     style="@style/textMediumHome"
                     android:layout_width="match_parent"
@@ -92,3 +92,5 @@ class $NAME$Binder(var onClickItem: Fun1<$MODEL$>) : ItemBinder<$MODEL$, ItemHol
         return item is $MODEL$
     }
 }
+
+```
